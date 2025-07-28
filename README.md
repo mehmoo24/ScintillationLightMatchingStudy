@@ -4,5 +4,6 @@ The directory: /global/cfs/cdirs/dune/users/mmehmood/ScintillationLightMatchingS
 
 To commit the changes do:
 chmod +x push_to_github.sh
+
 ./push_to_github.sh "Commit Message"
 
