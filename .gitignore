@@ -1,0 +1,47 @@
+# Binary files
+*.root
+*.out
+*.so
+*.o
+*.a
+*.mod
+
+# Logs and temporary files
+*.log
+*.err
+*.tmp
+*.bak
+
+# Python caches
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Editor/OS junk
+*.swp
+.DS_Store
+
+# Jupyter notebooks checkpoints
+.ipynb_checkpoints/
+
+# Backup files
+*~
+
+# Build directories
+build/
+dist/
+
+# Hidden system files
+Thumbs.db
+ehthumbs.db
+
+# Latex/Docs
+*.aux
+*.toc
+*.lof
+*.lot
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+
